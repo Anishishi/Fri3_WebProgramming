@@ -1,6 +1,6 @@
 {
-    "name": "tic-tac-toe",
-    "version": "0.1.0",
+    "name": "sudoku-react",
+    "version": "0.1.1",
     "private": true,
     "dependencies": {
         "react": "^16.9.0",

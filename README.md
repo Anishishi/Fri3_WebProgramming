@@ -1,9 +1,14 @@
-# Sudoku
+# Sudoku App by React
+
 ## About
 This is the page for the work of the Fri3 web programming language class.
 
 ## How to play
-You can play and enjoy sudoku by accessing [Link](https://anishishi.github.io/Fri3_WebProgramming/).
+You can play and enjoy sudoku by accessing the link below. Thank you for playing!
+
+https://anishishi.github.io/Fri3_WebProgramming/
+
+## Sudoku
 
 Sudoku is a number game in which you have to write a number between 1 and 9 in each small box of a 9x9 square.
 

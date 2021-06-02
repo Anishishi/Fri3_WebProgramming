@@ -30,8 +30,8 @@
             "last 1 safari version"
         ]
     },
-    "homepage": "https://eiskern.com/tic-tac-toe-tutorial-gh-pages/",
+    "homepage": "https://Anishishi.github.io/Fri3_WebProgramming/",
     "devDependencies": {
-        "gh-pages": "^2.1.1"
+        "gh-pages": "^2.2.0"
     }
 }
